@@ -21,8 +21,6 @@
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
 
-__author__ = "Djydo"
-__license__ = "GPL"
 
 import socket
 import select
